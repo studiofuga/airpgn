@@ -1,0 +1,46 @@
+{
+  "name": "Air Theme pgn - from markdown-it",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "air-light": {
+      "primary": "1c1c1c",
+      "secondary": "f9fcff",
+      "tertiary": "3877e5",
+      "quaternary": "7e8b93",
+      "header_background": "f9fcff",
+      "header_primary": "122b43",
+      "highlight": "e6cb37",
+      "selected": "e9e9e9",
+      "hover": "f2f2f2",
+      "danger": "d05454",
+      "success": "71bd9f",
+      "love": "c16ad7"
+    },
+    "air-dark": {
+      "primary": "e0e0e0",
+      "secondary": "2d2d2d",
+      "tertiary": "9a5cfd",
+      "quaternary": "71bd9f",
+      "header_background": "202020",
+      "header_primary": "e0e0e0",
+      "highlight": "9a5cfd",
+      "selected": "e9e9e9",
+      "hover": "f2f2f2",
+      "danger": "d05454",
+      "success": "71bd9f",
+      "love": "c16ad7"
+    }
+  },
+  "modifiers": {
+    "serialize_topic_excerpts": true
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
